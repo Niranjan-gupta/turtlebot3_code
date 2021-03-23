@@ -1,0 +1,5 @@
+simple_navigation_goals
+/home/artpark/ros_ws/turtlebot3_ws/devel/.private/simple_navigation_goals/cmake.lock /home/artpark/ros_ws/turtlebot3_ws/devel/./cmake.lock
+/home/artpark/ros_ws/turtlebot3_ws/devel/.private/simple_navigation_goals/share/simple_navigation_goals/cmake/simple_navigation_goalsConfig.cmake /home/artpark/ros_ws/turtlebot3_ws/devel/share/simple_navigation_goals/cmake/simple_navigation_goalsConfig.cmake
+/home/artpark/ros_ws/turtlebot3_ws/devel/.private/simple_navigation_goals/share/simple_navigation_goals/cmake/simple_navigation_goalsConfig-version.cmake /home/artpark/ros_ws/turtlebot3_ws/devel/share/simple_navigation_goals/cmake/simple_navigation_goalsConfig-version.cmake
+/home/artpark/ros_ws/turtlebot3_ws/devel/.private/simple_navigation_goals/lib/pkgconfig/simple_navigation_goals.pc /home/artpark/ros_ws/turtlebot3_ws/devel/lib/pkgconfig/simple_navigation_goals.pc

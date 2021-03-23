@@ -1,0 +1,12 @@
+Symlinking /home/artpark/ros_ws/turtlebot3_ws/devel/./setup.zsh
+Symlinking /home/artpark/ros_ws/turtlebot3_ws/devel/./_setup_util.py
+Symlinking /home/artpark/ros_ws/turtlebot3_ws/devel/./cmake.lock
+Symlinking /home/artpark/ros_ws/turtlebot3_ws/devel/./local_setup.zsh
+Symlinking /home/artpark/ros_ws/turtlebot3_ws/devel/./env.sh
+Symlinking /home/artpark/ros_ws/turtlebot3_ws/devel/./local_setup.sh
+Symlinking /home/artpark/ros_ws/turtlebot3_ws/devel/./setup.bash
+Symlinking /home/artpark/ros_ws/turtlebot3_ws/devel/./setup.sh
+Symlinking /home/artpark/ros_ws/turtlebot3_ws/devel/./local_setup.bash
+Symlinking /home/artpark/ros_ws/turtlebot3_ws/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig.cmake
+Symlinking /home/artpark/ros_ws/turtlebot3_ws/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig-version.cmake
+Symlinking /home/artpark/ros_ws/turtlebot3_ws/devel/lib/pkgconfig/catkin_tools_prebuild.pc
